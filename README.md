@@ -1,16 +1,22 @@
 # todoey
 
-A new Flutter project.
+A Flutter app to make a list of your tasks
+used technology ;
+-> Firebase
+-> Flutter/dart
+-> listView/listView.builder
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+app launched
 
-A few resources to get you started if this is your first Flutter project:
+![Screenshot (197)](https://user-images.githubusercontent.com/88496284/216961859-f04c8720-dcea-403c-924e-6a2fce480ca2.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+add a new task using + button
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot (198)](https://user-images.githubusercontent.com/88496284/216962249-c5d176ab-ea39-446c-8d11-3737379f1dec.png)
+
+
+mark as done which is completed
+
+![Screenshot (199)](https://user-images.githubusercontent.com/88496284/216962144-36720543-54c5-496d-9914-8049422d6b98.png)
